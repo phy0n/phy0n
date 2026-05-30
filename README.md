@@ -2,125 +2,139 @@
 
 # phy0n
 
-### Computer Science Enthusiast • Systems Builder • AI Engineer
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Exploring+Computer+Science;Building+Intelligent+Systems;Systems+Programming+%26+Infrastructure;Artificial+Intelligence+%26+Machine+Learning;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=8A2BE2&center=true&vCenter=true&width=800&lines=Exploring+the+Depths+of+Computer+Science;Building+Systems+with+Purpose;Learning+How+Machines+Think;Turning+Ideas+into+Working+Technology" />
 
 <br>
 
 <p>
-I enjoy exploring the full spectrum of Computer Science—from low-level systems and networking to distributed systems, artificial intelligence, and software architecture.
+Computer Science enthusiast with a deep curiosity for how things work under the hood.
 </p>
 
 <p>
-Building things, breaking things, understanding how they work, then building them better.
+I like exploring the intersection of systems, intelligence, security, infrastructure, and computation.
 </p>
 
 </div>
 
 ---
 
-## About
+## Identity
 
 ```txt
-Name      : phy0n
-Focus     : Computer Science & Software Engineering
-Location  : Indonesia
-Learning  : LLMs, Distributed Systems, MLOps, Rust
-Mission   : Understand computers from first principles
+I don't just want to build software.
+I want to understand the science behind computation,
+the architecture behind systems,
+and the intelligence behind machines.
 ```
 
 ---
 
-## Areas of Interest
+## What I Explore
 
-* Artificial Intelligence & Machine Learning
-* Systems Programming
+<table>
+<tr>
+<td width="50%">
+
+### Intelligence
+
+* Artificial Intelligence
+* Machine Learning
+* Large Language Models
+* AI Agents
+* Data-driven Systems
+
+</td>
+<td width="50%">
+
+### Systems
+
 * Operating Systems
 * Distributed Systems
-* Cybersecurity
 * Computer Networks
-* Algorithms & Data Structures
-* Backend Engineering
-* Cloud Infrastructure
-* Programming Languages & Compilers
+* Infrastructure
+* Performance Engineering
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### Security
+
+* Cybersecurity
+* Reverse Engineering
+* Secure Architecture
+* Digital Privacy
+* Threat Modeling
+
+</td>
+<td width="50%">
+
+### Theory
+
+* Algorithms
+* Data Structures
+* Computation
+* Mathematics for CS
+* Programming Languages
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Current Focus
+## Current State
 
 ```txt
-→ Building scalable software systems
-→ Researching AI Agents & LLM Applications
-→ Learning Rust & low-level development
-→ Studying distributed systems architecture
-→ Contributing to open-source projects
+Learning deeply.
+Building quietly.
+Experimenting constantly.
+Improving deliberately.
 ```
 
 ---
 
-## Tech Stack
+## Principles
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,rust,go,cpp,js,ts,bash" />
-</p>
-
-### Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,postgres,redis,nodejs,git,cloudflare" />
-</p>
+* Understand before using
+* Build before judging
+* Simplify without losing depth
+* Stay curious beyond trends
+* Think from first principles
 
 ---
 
-## Philosophy
+## What You Might Find Here
 
-> "The goal is not simply to write code.
-> The goal is to understand the systems behind the code."
-
-I value:
-
-* Curiosity over trends
-* Fundamentals over shortcuts
-* Understanding over memorization
-* Building over consuming
+* Experimental projects
+* Research-inspired implementations
+* AI and automation ideas
+* Systems exploration
+* Infrastructure experiments
+* Notes from learning Computer Science
+* Projects that started from curiosity
 
 ---
-
-## GitHub Stats
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=phy0n&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phy0n&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
 
 ## Connect
 
-<p align="center">
-
 <a href="https://phy0n.my.id">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <a href="mailto:phymee@proton.me">
-<img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=protonmail&logoColor=white" />
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### Stay Curious.
-
-*"Computer Science is not about using computers. It's about understanding computation."*
+### "Stay curious. Understand deeply. Build meaningfully."
 
 </div>
