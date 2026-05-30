@@ -82,10 +82,6 @@ Secure Design
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phy0n&theme=tokyonight" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phy0n&theme=tokyonight" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phy0n&theme=tokyonight" />
-
 </div>
 
 ---
