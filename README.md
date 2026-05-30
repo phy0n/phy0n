@@ -1,82 +1,51 @@
 <div align="center">
 
-# phy0n
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=180&section=header&text=phy0n&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=8A2BE2&center=true&vCenter=true&width=800&lines=Exploring+the+Depths+of+Computer+Science;Building+Systems+with+Purpose;Learning+How+Machines+Think;Turning+Ideas+into+Working+Technology" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Computer+Science+Enthusiast;Exploring+Systems%2C+AI%2C+and+Computation;Learning+How+Technology+Works+Under+the+Hood" />
 
-<br>
-
-<p>
-Computer Science enthusiast with a deep curiosity for how things work under the hood.
-</p>
+<br><br>
 
 <p>
-I like exploring the intersection of systems, intelligence, security, infrastructure, and computation.
+  I’m interested in Computer Science as a whole — from algorithms and systems to artificial intelligence, networks, security, and software architecture.
 </p>
 
 </div>
 
 ---
 
-## Identity
+## About Me
 
 ```txt
-I don't just want to build software.
-I want to understand the science behind computation,
-the architecture behind systems,
-and the intelligence behind machines.
+Computer Science enthusiast.
+Curious about how computers work, how systems scale,
+and how intelligence can be built through code.
 ```
 
 ---
 
-## What I Explore
+## Interests
 
 <table>
 <tr>
-<td width="50%">
+<td>
 
-### Intelligence
-
-* Artificial Intelligence
-* Machine Learning
-* Large Language Models
-* AI Agents
-* Data-driven Systems
-
-</td>
-<td width="50%">
-
-### Systems
-
-* Operating Systems
-* Distributed Systems
-* Computer Networks
-* Infrastructure
-* Performance Engineering
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### Security
-
-* Cybersecurity
-* Reverse Engineering
-* Secure Architecture
-* Digital Privacy
-* Threat Modeling
-
-</td>
-<td width="50%">
-
-### Theory
+### Core CS
 
 * Algorithms
 * Data Structures
-* Computation
-* Mathematics for CS
-* Programming Languages
+* Operating Systems
+* Computer Networks
+
+</td>
+<td>
+
+### Advanced Topics
+
+* Artificial Intelligence
+* Distributed Systems
+* Cybersecurity
+* Software Architecture
 
 </td>
 </tr>
@@ -84,57 +53,50 @@ and the intelligence behind machines.
 
 ---
 
-## Current State
+## Currently Exploring
 
-```txt
-Learning deeply.
-Building quietly.
-Experimenting constantly.
-Improving deliberately.
-```
-
----
-
-## Principles
-
-* Understand before using
-* Build before judging
-* Simplify without losing depth
-* Stay curious beyond trends
-* Think from first principles
+* Large Language Models
+* Systems Design
+* Infrastructure & Scalability
+* CS fundamentals
+* Open-source projects
 
 ---
 
-## What You Might Find Here
-
-* Experimental projects
-* Research-inspired implementations
-* AI and automation ideas
-* Systems exploration
-* Infrastructure experiments
-* Notes from learning Computer Science
-* Projects that started from curiosity
-
----
+## GitHub Activity
 
 <div align="center">
 
-## Connect
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=phy0n&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2" />
 
-<a href="https://phy0n.my.id">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<a href="mailto:phymee@proton.me">
-<img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=protonmail&logoColor=white" />
-</a>
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=phy0n&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" />
 
 </div>
 
 ---
 
+## Philosophy
+
+> Understand the fundamentals. Build with purpose. Stay curious.
+
+---
+
+## Connect
+
 <div align="center">
 
-### "Stay curious. Understand deeply. Build meaningfully."
+<a href="https://phy0n.my.id">
+  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="mailto:phymee@proton.me">
+  <img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=protonmail&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer" />
 
 </div>
