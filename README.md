@@ -8,9 +8,6 @@
 
 </div>
 
----
-## TECH STACK
-
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,c,python&theme=dark"/>
