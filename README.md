@@ -1,5 +1,3 @@
-# README.md
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=8B0000&text=PHY0N&fontColor=ffffff&fontSize=56&animation=fadeIn"/>
