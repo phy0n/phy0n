@@ -122,18 +122,6 @@ Prompt Engineering
 
 ---
 
-# 📊 PLAYER STATS
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=phy0n&show_icons=true&theme=shadow_red&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phy0n&layout=compact&theme=shadow_red&hide_border=true"/>
-
-</div>
-
----
-
 # 📈 ACTIVITY MAP
 
 <div align="center">
