@@ -11,7 +11,7 @@
 <div align="center">
 
 <h3>Programming Languages</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,c,cpp&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,python,c,cpp&theme=dark"/>
 
 <br><br>
 
