@@ -8,8 +8,6 @@
 
 </div>
 
-## TECH STACK
-
 <div align="center">
 
 <h3>Programming Languages</h3>
