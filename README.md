@@ -17,7 +17,6 @@
 <img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,nginx,vscode,mysql,postgres,redis,cloudflare,ubuntu,debian&theme=dark"/>
 
 </div>
----
 
 ## LINKS
 
