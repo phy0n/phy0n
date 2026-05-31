@@ -9,23 +9,17 @@
 </div>
 
 ---
-
 ## TECH STACK
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,c,cpp,python,bash,git,github,docker,nginx,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,c,python&theme=dark"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,nginx,vscode,mysql,postgres,redis,cloudflare,ubuntu,debian&theme=dark"/>
 
 </div>
-
-<br>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,postgres,mysql,redis,cloudflare,ubuntu,debian&theme=dark"/>
-
-</div>
-
 ---
 
 ## LINKS
