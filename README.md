@@ -33,7 +33,7 @@
 <br><br>
 
 <h3>Operating Systems</h3>
-<img src="https://skillicons.dev/icons?i=linux,fedora,ubuntu,debian,kali&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,kali&theme=dark"/>
 
 <br><br>
 
