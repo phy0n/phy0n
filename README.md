@@ -8,10 +8,42 @@
 
 </div>
 
+## TECH STACK
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,c,python&theme=dark"/>
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,nginx,vscode,mysql,postgres,redis,cloudflare,ubuntu,debian&theme=dark"/>
+<h3>Programming Languages</h3>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,c,cpp,java,go,rust,bash&theme=dark"/>
+
+<br><br>
+
+<h3>Frameworks & Libraries</h3>
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,react,nextjs,express,tailwind,bootstrap,tensorflow,pytorch&theme=dark"/>
+
+<br><br>
+
+<h3>Databases</h3>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis,mongodb&theme=dark"/>
+
+<br><br>
+
+<h3>DevOps & Cloud</h3>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,cloudflare,vercel,netlify,aws,gcp,azure&theme=dark"/>
+
+<br><br>
+
+<h3>Operating Systems</h3>
+<img src="https://skillicons.dev/icons?i=linux,fedora,ubuntu,debian,kali&theme=dark"/>
+
+<br><br>
+
+<h3>Development Tools</h3>
+<img src="https://skillicons.dev/icons?i=vscode,neovim,idea,postman,git,github,githubactions&theme=dark"/>
+
+<br><br>
+
+<h3>Terminal & CLI</h3>
+<img src="https://skillicons.dev/icons?i=bash,powershell&theme=dark"/>
 
 </div>
 
