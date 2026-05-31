@@ -13,7 +13,7 @@
 <div align="center">
 
 <h3>Programming Languages</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,c,cpp,java,go,rust,bash&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,c,cpp,bash&theme=dark"/>
 
 <br><br>
 
@@ -33,7 +33,7 @@
 <br><br>
 
 <h3>Operating Systems</h3>
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,kali&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,kali&theme=dark"/>
 
 <br><br>
 
